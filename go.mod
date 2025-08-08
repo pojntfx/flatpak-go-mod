@@ -1,4 +1,4 @@
-module github.com/dennwc/flatpak-go-mod
+module github.com/pojntfx/flatpak-go-mod
 
 go 1.24.4
 
